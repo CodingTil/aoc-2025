@@ -1,6 +1,6 @@
 use include_lines::include_lines;
 
-const INPUT: &[&str] = &include_lines!("./day_1/input.txt");
+const INPUT: &[&str] = &include_lines!("./day_01/input.txt");
 
 fn main() {
     part_1(INPUT);
