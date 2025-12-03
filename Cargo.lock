@@ -14,6 +14,13 @@ name = "day_02"
 version = "0.1.0"
 
 [[package]]
+name = "day_03"
+version = "0.1.0"
+dependencies = [
+ "include-lines",
+]
+
+[[package]]
 name = "include-lines"
 version = "1.1.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
